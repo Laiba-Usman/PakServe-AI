@@ -1,0 +1,61 @@
+# Federal Board of Revenue (FBR) - Business & Freelancer Income Tax Return Filing Guide
+
+## Overview
+Individuals operating as Sole Proprietors, Self-Employed Professionals, Freelancers, Consultants, Traders, Manufacturers, and service providers are categorized under **Business Individuals** for income tax purposes in Pakistan. They are legally required to file an annual Income Tax Return (Form 114) and Wealth Statement (Form 116) on the FBR IRIS 2.0 electronic portal.
+
+Unlike salaried filers, business individuals must declare commercial revenues, allowable business deductions, net profits, depreciations, and business bank balances.
+
+---
+
+## Eligibility Criteria & Classification
+- Any individual earning income from a business, profession, vocation, freelancing, trade, e-commerce, or consultancy in Pakistan during the fiscal year (1st July - 30th June).
+- If business revenue is earned from export of computer software, IT services, or IT-enabled services (freelancing / software export), special concessional tax regimes (such as 0.25% to 1% final tax under Section 154A) apply, provided the entity is registered with the Pakistan Software Export Board (PSEB) and proceeds are received via official banking channels (PRC - Proceeds Realization Certificate).
+
+---
+
+## Required Financial Documents Checklist
+1. **Profit & Loss Statement (P&L)**: Summary of annual gross revenue/sales, cost of sales/goods, operating expenses (rent, utility bills, salaries, marketing, travel, office supplies), and net taxable profit.
+2. **Balance Sheet / Statement of Assets & Liabilities**: Cash in hand, business bank accounts, accounts receivable (debtors), inventory / stock in trade, fixed equipment/machinery, accounts payable (creditors), and proprietor capital as of 30th June.
+3. **Business Bank Statements**: Comprehensive 12-month bank statements for all commercial and personal accounts.
+4. **Proceeds Realization Certificates (PRC / FIRC)**: From commercial banks validating foreign remittance inflows for IT exporters and remote freelancers.
+5. **Withholding Tax Deduction Certificates**:
+   - Section 153 (Tax on sale of goods, execution of contracts, services rendered).
+   - Section 154A (Tax on export of IT/computer services).
+   - Advance tax on commercial electricity bills, imports, vehicles, and banking transactions.
+
+---
+
+## Step-by-Step Filing Walkthrough on IRIS Portal
+
+### Step 1: Open Form 114 (Business Return)
+- Log in to `iris.fbr.gov.pk` with your CNIC and password.
+- Go to **"Declaration"** -> **"Return of Income filed voluntarily for complete year (Form 114(1))"**.
+- Select the relevant tax year.
+
+### Step 2: Input Business Revenue & Deductions
+- Go to the **"Manufacturing / Trading / Services"** tab under Business Income.
+- Enter **Gross Revenue / Turnover**.
+- Enter **Cost of Goods Sold (COGS)** / Direct Expenses.
+- Enter **Management, Administrative, and Selling Expenses** (Rent, Salaries, Electricity, Internet, Depreciation on assets).
+- The system calculates Net Accounting Profit before tax.
+
+### Step 3: Tax Adjustments and IT Export Concessions
+- If eligible for IT/Freelance export regime under Section 154A: Declare foreign remittance in the designated final tax / minimum tax section.
+- Under **Adjustable Tax**: Input all advance withholding taxes deducted by corporate clients, banks, or customs.
+
+### Step 4: Wealth Statement (Form 116) Reconciliation
+- Declare total business capital invested in your enterprise as an asset on 30th June.
+- Declare personal properties, private vehicles, personal bank balances, and household expenditures.
+- Reconcile net wealth movement: Current Year Wealth - Previous Year Wealth = Declared Business Profit + Inflows - Personal Household Outflows.
+- Ensure the **"Unreconciled Amount" is strictly zero**.
+
+### Step 5: Pin Verification and Submission
+- Enter the 4-digit electronic PIN, click "Verify PIN", and submit the return.
+- Save the PDF copy of the return and Form 114(1) Acknowledgment Receipt for commercial banking and audit records.
+
+---
+
+## Deadlines and Compliance
+- **Annual Deadline for Business Individuals**: Typically **30th September** of the tax year.
+- **Record Retention**: Tax laws require business taxpayers to preserve books of accounts, invoices, ledgers, and bank statements for a minimum period of **6 years** for potential FBR audit compliance.
+- Disclaimer: Tax rates, turnover tax rules, and IT export exemptions are illustrative for demo guidance. Consult a qualified Chartered Accountant / Tax Advisor or FBR (fbr.gov.pk).

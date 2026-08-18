@@ -1,0 +1,54 @@
+Senior Citizen Card — NADRA
+
+Overview
+The Senior Citizen Card is issued by NADRA to Pakistani citizens aged 60 years and above. It provides holders with access to discounted services, priority queues at government offices, reduced utility bill processing fees, and special fare concessions on select public transport services. The card is separate from the standard CNIC but is linked to the holder's NADRA record.
+
+Eligibility Criteria
+- Applicant must be a Pakistani citizen.
+- Applicant must be 60 years of age or older at the time of application.
+- Applicant must hold a valid, unexpired CNIC (or a CNIC eligible for renewal at the time of application).
+
+Required Documents
+1. Original CNIC (valid or up for renewal).
+2. Proof of age if there is a discrepancy in NADRA records (e.g. original birth certificate or matriculation certificate).
+3. One recent passport-size photograph (in some regional offices, biometric photo capture is done on-site instead).
+4. Application form available at any NADRA Registration Center or downloadable from the official NADRA website.
+
+Application Process
+1. Visit the nearest NADRA Registration Center in person, or apply through NADRA's e-Sahulat partner network in select cities.
+2. Submit the completed application form along with the required documents.
+3. Biometric verification (fingerprint and photograph) is captured at the center.
+4. Pay the applicable processing fee at the counter.
+5. Collect a token/receipt with a tracking number for status checks.
+
+Fee and Processing Time
+| Service Type | Fee (approx.) | Processing Time |
+|---|---|---|
+| Normal | PKR 200 | 15 working days |
+| Urgent | PKR 500 | 7 working days |
+| Executive | PKR 1,000 | 2 working days |
+
+Note: Fees are illustrative and subject to change; applicants should confirm current fee schedules at their local NADRA office or the official NADRA website before applying.
+
+Benefits of the Senior Citizen Card
+- Priority service lanes at NADRA offices, hospitals, and select government departments.
+- Discounted fares on select public transport (varies by province/city transport authority).
+- Reduced processing fees for certain civil documentation services.
+- Easier access to senior-citizen-specific welfare programs administered by provincial social welfare departments.
+
+Renewal
+The Senior Citizen Card does not require frequent renewal, but if the linked CNIC is renewed or the card is lost/damaged, a duplicate or updated card can be requested using the same application process, with a separate duplicate-issuance fee.
+
+Frequently Asked Questions
+
+Can a senior citizen apply on behalf of someone else?
+No, the applicant must generally be present in person for biometric verification. In cases of severe mobility issues, NADRA's mobile registration van service (available in some cities) or a home-visit request can be explored through the NADRA helpline.
+
+Is the Senior Citizen Card mandatory?
+No, it is optional. Citizens aged 60+ can continue using their standard CNIC for all identification purposes; the Senior Citizen Card simply adds extra benefits.
+
+What if my CNIC has already expired?
+It is recommended to renew the CNIC first (or apply for renewal simultaneously), since the Senior Citizen Card is linked to valid CNIC records.
+
+Where can I check my application status?
+Applicants can check status online via the NADRA website using the tracking number provided at the time of application, or by calling the NADRA helpline.

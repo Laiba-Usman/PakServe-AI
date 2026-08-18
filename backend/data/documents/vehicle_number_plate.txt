@@ -1,0 +1,65 @@
+# Excise, Taxation & Narcotics Control Department - Standard Computerized Number Plates & Replacement Guide
+
+## Overview
+Provincial Motor Registration Authorities in Pakistan issue standardized, high-security computerized number plates embossed with official provincial emblems, retro-reflective sheeting, unique serial numbers, and laser-etched security marks to ensure vehicle identification and prevent vehicle duplication or auto theft.
+
+Driving with non-standard, fancy, tinted, folded, or unreadable aftermarket number plates is a cognizable offense under the Motor Vehicles Ordinance, attracting traffic challans, impoundment of number plates, and heavy fines.
+
+---
+
+## When to Apply for Number Plates?
+1. **Fresh Registration**: Number plates are automatically ordered as part of the initial vehicle registration package.
+2. **Replacement of Lost Plates**: If one or both number plates are stolen or lost on the road.
+3. **Replacement of Damaged / Faded Plates**: If plates have suffered physical collision damage or weathering.
+
+---
+
+## Required Documents Checklist
+
+### For Replacement of Lost Number Plates:
+1. **Police Report / Daily Diary (Roznamcha Entry / FIR)**: Obtained from the local Police Station reporting the loss or theft of the specific number plate.
+2. **Original Vehicle Registration Smart Card / Book** + 1 photocopy.
+3. **Original CNIC of Registered Vehicle Owner** + photocopy.
+4. **Affidavit on Rs. 50 - 100 Stamp Paper**: Attested by an Oath Commissioner, declaring that the plate was genuinely lost and will not be misused.
+5. **Paid Fee Challan / PSID**: Generated online or at the Excise bank counter.
+
+### For Replacement of Damaged / Broken Plates:
+1. **Surrender of Damaged Number Plates**: Both old plates must be physically handed over to the Excise Motor Branch for official cancellation and destruction.
+2. **Original Smart Card / Registration Book**.
+3. **Original CNIC of Owner**.
+4. **Paid Fee Receipt**.
+
+---
+
+## Application Procedure for Replacement Plates
+
+1. **Lodge Police Report (For Lost Plates)**:
+   - Report loss at the local police station to obtain the signed Roznamcha copy.
+2. **Generate PSID / Challan**:
+   - Access provincial Excise portal / e-Pay app or visit the Motor Registration Authority (MRA) counter.
+   - Select "Duplicate / Replacement Number Plate".
+   - Pay the prescribed fee via 1Link / mobile banking.
+3. **Submit Application at Excise Motor Branch**:
+   - Present the Roznamcha report / damaged plates, affidavit, CNIC copy, and paid challan.
+   - The Excise Officer verifies the vehicle file and places a production order with the government manufacturing facility (e.g. National Radio and Telecommunication Corporation - NRTC / Provincial Printing Facility).
+4. **Temporary Driving Permit**:
+   - The applicant is issued a temporary stamped authorization receipt permitting vehicle operation while new plates are fabricated.
+5. **Collection of New Plates**:
+   - Upon receiving SMS notification (typically within 15 to 30 working days), collect the new embossed number plates from the Excise office upon presenting the original receipt.
+
+---
+
+## Fee Structure and Estimated Timelines
+
+| Vehicle Type | Standard Pair Fee | Delivery / Production Time |
+|---|---|---|
+| Motorcycle / Scooter | Rs. 1,000 - Rs. 1,500 | 15 to 30 Working Days |
+| Motor Car / Jeep / SUV | Rs. 1,800 - Rs. 2,800 | 15 to 30 Working Days |
+| Commercial Vehicles (LTV/HTV) | Rs. 2,500 - Rs. 3,500 | 15 to 30 Working Days |
+
+---
+
+## Regulations Regarding Universal & Personalized Number Plates
+- **Universal Numbering System**: Most provinces (such as Punjab and Sindh) issue universal alphanumeric formats (e.g. `LEA-24-1234` or `AAA-123`) valid province-wide without district segregation.
+- **Auction of Attractive / Vanity Numbers**: Special attractive numbers (e.g. `1`, `786`, `007`, `999`) or customized vanity plates are auctioned periodically via online e-Auction portals with reserve bidding prices.
+- Disclaimer: Regulations, fees, and timelines are illustrative for demo purposes. Check official provincial Excise Department resources.

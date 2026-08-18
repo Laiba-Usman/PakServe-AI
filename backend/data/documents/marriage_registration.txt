@@ -1,0 +1,72 @@
+# Local Government & Union Council - Computerized Marriage Certificate (NADRA MRC / Nikkah Registration) Guide
+
+## Overview
+Under the Muslim Family Laws Ordinance, 1961 (and respective Provincial Local Government Acts), every marriage solemnized in Pakistan must be officially registered with the relevant Local Union Council / Cantonment Board. 
+
+While the traditional Urdu hand-written **Nikkah Nama** (Marriage Contract) is executed at the time of the wedding ceremony by the licensed Nikkah Registrar (Nikkah Khawan), a **Computerized Marriage Registration Certificate (MRC)** issued through NADRA's Civil Registration Management System (CRMS) is the standardized, bilingual (English/Urdu) legal document recognized by courts, foreign embassies, immigration authorities, and NADRA for updating marital status.
+
+---
+
+## Why is a Computerized Marriage Certificate (MRC) Mandatory?
+- Updating marital status and husband's name on the wife's CNIC / Smart Card at NADRA.
+- Obtaining a NADRA Family Registration Certificate (FRC - By Marriage).
+- Applying for Foreign Spouse Visas, Family Immigration, and dependent international travel.
+- Joint bank account operations, legal succession, and inheritance rights.
+
+---
+
+## Required Documents Checklist
+1. **Original Hand-Written Nikkah Nama**: Fully signed and stamped by:
+   - Groom (Dulha)
+   - Bride (Dulhan)
+   - Bride's Legal Guardian / Wakeel (if applicable)
+   - Two Adult Sane Male Witnesses (Gawah)
+   - Official Licensed Nikkah Registrar (with registration number and official seal).
+2. **Photocopy of Groom's CNIC / Smart NIC / NICOP**.
+3. **Photocopy of Bride's CNIC / Smart NIC / NICOP**.
+4. **Photocopies of CNICs of Groom's Father and Bride's Father**.
+5. **Photocopies of CNICs of both Witnesses (Gawah)** mentioned in the Nikkah Nama.
+6. **Photocopy of Nikkah Registrar's (Nikkah Khawan's) CNIC / License**.
+7. **Passport & Visa copies** (if either spouse is a foreign national).
+
+---
+
+## Step-by-Step Registration Procedure
+
+1. **Locate the Jurisdiction**:
+   - The marriage must be registered in the specific Union Council / Cantonment Board in whose geographical jurisdiction the bride resided at the time of marriage, OR where the wedding ceremony was solemnized.
+2. **Submit Documents to Union Council Secretary**:
+   - Present the original 4-copy hand-written Nikkah Nama and all CNIC copies to the UC Secretary.
+3. **Data Entry in NADRA CRMS**:
+   - The UC Secretary enters all particulars into the NADRA CRMS marriage registration portal:
+     - Groom and Bride's full names, CNIC numbers, dates of birth, marital status prior to marriage (unmarried / divorced / widower).
+     - Dower amount (Haq Mehr: Prompt / Deferred), special conditions, and delegation of right of divorce (Tafweez-e-Talaq).
+     - Witnesses and Nikkah Registrar details.
+4. **Review Draft Printout**:
+   - Review the draft form carefully to ensure exact spelling match with both spouses' CNICs and passports.
+5. **Approval & Certificate Generation**:
+   - The Union Council Secretary and Chairman / Administrator sign and stamp the Computerized Marriage Registration Certificate.
+   - The certificate is printed on security watermark paper featuring the official seal, bilingual format, and a secure verification QR code.
+
+---
+
+## Fee Structure and Processing Timelines
+
+| Service Category | Official Fee | Turnaround Time |
+|---|---|---|
+| Standard Registration (within 30-90 days of Nikkah) | Rs. 200 - Rs. 500 | 1 to 3 Working Days |
+| Urgent / Same-Day Service (at Facilitation Centers) | Rs. 500 - Rs. 1,000 | Same Day / 24 Hours |
+| Late Registration (after 1 year of marriage) | Rs. 500 - Rs. 1,500 | 3 to 7 Working Days (Requires UC approval) |
+
+---
+
+## For Non-Muslim Pakistani Citizens
+- For Christian citizens, marriage registration certificates are issued pursuant to the Christian Marriage Act, 1872, upon presentation of the Church Marriage Register Certificate signed by the Pastor / Priest.
+- For Hindu and Sikh citizens, registration is conducted under the Hindu Marriage Act / Anand Karaj Marriage Rules through the designated Local Government / Union Council desk.
+
+---
+
+## Next Steps After Receiving MRC
+- Visit the nearest NADRA Registration Center (NRC) with the Computerized MRC to update the wife's marital status on her CNIC (changing father's name to husband's name or retaining father's name with updated marital status).
+- For international visa use, the Computerized MRC may be attested by the Ministry of Foreign Affairs (MOFA), Pakistan.
+- Disclaimer: Procedures and fee figures are illustrative for demo purposes. Consult your local Union Council or Cantonment Board for exact details.

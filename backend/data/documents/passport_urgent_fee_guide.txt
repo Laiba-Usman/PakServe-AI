@@ -1,0 +1,70 @@
+# Directorate General of Immigration & Passports (DGIP) - Complete Fee Schedule & Priority Guide
+
+## Overview
+The Directorate General of Immigration & Passports (DGIP) offers multiple booklet sizes (36, 72, and 100 pages), validity periods (5 years and 10 years), and delivery priorities (Normal, Urgent, Fast Track) for both standard Machine Readable Passports (MRP) and electronic chip-enabled E-Passports.
+
+All fees must be generated digitally via the official **Passport Fee Asaan** mobile app or portal (fee.dgip.gov.pk) which produces a 1Link PSID payable through mobile banking apps, ATMs, Easypaisa, JazzCash, or Over-The-Counter (OTC) at commercial banks.
+
+---
+
+## Machine Readable Passport (MRP) Fee Schedule
+
+### 1. 5-Year Validity MRP:
+
+| Booklet Size | Normal Fee | Urgent Fee | Fast Track Fee |
+|---|---|---|---|
+| 36 Pages | Rs. 4,500 | Rs. 7,500 | Rs. 12,500 |
+| 72 Pages | Rs. 8,200 | Rs. 13,500 | Rs. 18,500 |
+| 100 Pages | Rs. 9,000 | Rs. 18,000 | Rs. 23,000 |
+
+### 2. 10-Year Validity MRP:
+
+| Booklet Size | Normal Fee | Urgent Fee | Fast Track Fee |
+|---|---|---|---|
+| 36 Pages | Rs. 6,700 | Rs. 11,200 | Rs. 16,200 |
+| 72 Pages | Rs. 12,400 | Rs. 20,200 | Rs. 25,200 |
+| 100 Pages | Rs. 13,500 | Rs. 27,000 | Rs. 32,000 |
+
+*Note: 10-year validity passports are strictly issued to applicants aged 15 years and above.*
+
+---
+
+## Electronic Passport (E-Passport) Fee Schedule
+E-Passports feature an embedded contactless RFID microprocessor chip containing the holder's biometric data, facial geometry, fingerprints, and advanced cryptographic security features.
+
+### 1. 5-Year Validity E-Passport:
+- **36 Pages**: Normal Rs. 9,000 | Urgent Rs. 15,000
+- **72 Pages**: Normal Rs. 16,500 | Urgent Rs. 27,000
+
+### 2. 10-Year Validity E-Passport:
+- **36 Pages**: Normal Rs. 13,500 | Urgent Rs. 22,500
+- **72 Pages**: Normal Rs. 24,750 | Urgent Rs. 40,500
+
+---
+
+## Delivery Timelines by Service Priority
+
+| Priority Track | Standard Processing Time | Target Beneficiaries |
+|---|---|---|
+| **Normal Track** | 15 to 21 Working Days | Routine travel planned months in advance |
+| **Urgent Track** | 5 to 7 Working Days | Planned travel with upcoming visa appointments |
+| **Fast Track** | 2 to 3 Working Days | Emergency medical travel, urgent job joining, last-minute travel |
+
+---
+
+## Payment Instructions via Passport Fee Asaan
+1. Install **Passport Fee Asaan** App (Android/iOS) or visit fee.dgip.gov.pk.
+2. Click "Passport Fee Payment".
+3. Select your Passport Type (MRP or E-Passport), Validity (5/10 Yrs), Category (Fresh, Renewal, Modification, Lost, Damaged), and Booklet Pages (36/72/100).
+4. Enter Applicant's CNIC / B-Form number and nearest Passport Office location.
+5. System generates a 17-digit **PSID Number**.
+6. Pay via 1Link Bill Payment option in any mobile banking app (HBL, Meezan, UBL, Alfalah, EasyPaisa, JazzCash).
+7. Save the digital payment confirmation SMS/PDF and bring it to your RPO appointment.
+
+---
+
+## Important Rules & Notes
+- PSID vouchers remain valid for payment for 30 calendar days from the date of generation.
+- Paid fee vouchers remain valid for submission at the Passport Office for up to 90 days from the payment date.
+- Passport fees are strictly non-refundable once the application has been processed at the counter.
+- Disclaimer: Fee figures are illustrative based on current official tariff structures. Confirm final charges on fee.dgip.gov.pk before payment.

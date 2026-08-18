@@ -1,0 +1,68 @@
+# Driving License Authority (DLIMS / Traffic Police) - Driving License Renewal Guide
+
+## Overview
+A Permanent Driving License in Pakistan is issued with a fixed validity of either 3, 5, or 10 years. Drivers are legally obligated to renew their license upon expiry. Driving with an expired license constitutes a moving traffic violation under the Motor Vehicles Ordinance, attracting traffic challans, vehicle impoundment, and potential invalidation of motor insurance claims during accidents.
+
+Renewal can be carried out both **online** (via provincial DLIMS portals such as dlims.punjab.gov.pk or Sindh / Islamabad apps) and **in-person** at Police Khidmat Marakaz (PKM) or Traffic Police Licensing Centers.
+
+---
+
+## Grace Period and Late Renewal Penalties
+Traffic rules provide specific renewal windows and late penalty tiers:
+- **Within 30 Days of Expiry**: No penalty. Normal renewal fee applies.
+- **Between 1 Month and 1 Year of Expiry**: Standard renewal fee + small late surcharge (approx 25% to 50% extra).
+- **Between 1 Year and 3 Years of Expiry**: Standard renewal fee + heavy penalty (approx 100% fine).
+- **Expired for More Than 3 Years**: The license is cancelled from active database status. The applicant is treated as a fresh candidate and must obtain a new Learner Permit, wait 42 days, and re-take both the theoretical sign test and practical driving track test.
+
+---
+
+## Required Documents Checklist
+1. **Original Expired Driving License** (or legible front/back copy).
+2. **Original Valid CNIC / Smart NIC** + 1 photocopy.
+3. **Medical Fitness Certificate (Form-B)**:
+   - Mandatory for commercial categories (LTV/HTV/PSV).
+   - Mandatory for all non-commercial drivers aged 50 years and above.
+4. **Passport Size Photograph**: 1 photo (for physical center submission; captured digitally or uploaded for online apps).
+5. **Paid Renewal Fee Receipt / PSID**: Generated online or paid via designated banking channels.
+
+---
+
+## Renewal Procedures
+
+### 1. Online License Renewal (e.g. DLIMS Portal):
+1. Log in to the provincial DLIMS web portal or mobile app.
+2. Select "Renew Driving License".
+3. Enter CNIC number and existing License number.
+4. Confirm personal details, updated mobile number, and delivery mailing address.
+5. Upload a clear frontal photo and scanned copy of CNIC (front and back) and old license.
+6. Generate PSID code and pay the renewal fee + courier charges via 1Link / ATM / Easypaisa / JazzCash / Mobile Banking.
+7. Download your digital renewal confirmation receipt and e-License with QR code.
+8. The physical Smart Driving License card is printed and delivered by postal courier within 7 to 15 business days.
+
+### 2. In-Person Renewal at Police Khidmat Markaz (PKM):
+1. Visit the nearest PKM or Traffic Police center.
+2. Collect a renewal token at the reception desk.
+3. Submit old license and CNIC at the renewal window.
+4. Complete biometric authentication and live photo capture.
+5. Pay the fee challan at the integrated bank counter / digital terminal.
+6. Retain token receipt. The renewed physical card will be delivered to your residence.
+
+---
+
+## Renewal Fee Schedule (Illustrative Standard Rates)
+
+| Category | 5-Year Renewal Fee | 10-Year Renewal Fee | Late Fee (1-3 Yrs Expired) |
+|---|---|---|---|
+| Motorcycle | Rs. 1,000 - Rs. 1,500 | Rs. 2,000 - Rs. 2,500 | + Rs. 500 - Rs. 1,000 |
+| Motor Car / Jeep | Rs. 1,800 - Rs. 2,500 | Rs. 3,500 - Rs. 4,500 | + Rs. 1,000 - Rs. 1,500 |
+| Motorcycle + Car | Rs. 2,500 - Rs. 3,500 | Rs. 4,500 - Rs. 6,000 | + Rs. 1,500 - Rs. 2,000 |
+| Commercial (LTV/HTV) | Rs. 2,500 - Rs. 4,000 | N/A (Subject to Medicals) | + Rs. 1,500 - Rs. 2,500 |
+
+*Postal courier charges (approx Rs. 200 - Rs. 300) are added to all card renewals.*
+
+---
+
+## Important Rules & Notes
+- An applicant does not need to re-take any driving or sign tests for regular license renewals (provided the license has not been expired for more than 3 years).
+- A renewed e-License stored on your mobile phone via the official Traffic Police app is legally valid for road inspection across all national highways and city roads.
+- Disclaimer: Procedures and fee figures are illustrative for demo guidance. Verify with official provincial Traffic Police authorities.

@@ -1,0 +1,73 @@
+# District Administration - Domicile Certificate Issuance & Verification Guide
+
+## Overview
+A **Domicile Certificate** is a statutory legal document issued under the Pakistan Citizenship Act, 1951 (and Domicile Rules, 1952) by the District Administration (Deputy Commissioner / District Magistrate / Assistant Commissioner) certifying that a citizen is a permanent resident of a specific district and province in Pakistan.
+
+The Domicile Certificate is mandatory for:
+- Claiming provincial and regional quota reservations in Federal and Provincial Civil Services (FPSC / PPSC / SPSC / KPPSC / BPSC exams).
+- Admission to government medical colleges, engineering universities, and professional public institutions under district merit quotas.
+- Applying for provincial government employment and statutory welfare schemes.
+
+---
+
+## Eligibility Criteria
+- Applicant must be a bona fide resident of the district for a specified minimum period (generally at least 1 to 3 continuous years).
+- Applicant must possess a valid CNIC (for adults 18+) or B-Form (for minors under 18) with a permanent address matching the respective district.
+- An individual can legally hold **ONLY ONE** Domicile Certificate in Pakistan. Holding dual domiciles from two different districts is a criminal offense under the Pakistan Penal Code.
+
+---
+
+## Required Documents Checklist
+1. **Application Form (Form-A / Form-P-1)**: Duly filled with applicant particulars.
+2. **Original CNIC / Smart NIC / B-Form** + 3 photocopies.
+3. **Father's / Mother's / Guardian's CNIC** + photocopies.
+4. **Father's Domicile Certificate** (if available; highly recommended for minor or student applicants).
+5. **Educational Certificates**:
+   - Matriculation / Intermediate / Primary school certificates establishing continuous study in the district.
+6. **Proof of Residence / Property Ownership in the District**:
+   - Land ownership record (Fard / Registry / Inteqal) in applicant or parents' name, OR registered residential rent deed, OR utility bill (Electricity/Sui Gas) of the district.
+7. **Passport-Sized Photographs**: 3 to 4 clear recent photographs with light background.
+8. **Affidavit on Non-Judicial Stamp Paper (Rs. 50 - 100)**: Attested by an Oath Commissioner, declaring under oath that the applicant is a permanent resident of the district and does not possess a domicile from any other district or province.
+9. **Paid Challan (Head C-02684 / Judicial Fee)**: Paid at National Bank of Pakistan (NBP) or District Treasury.
+
+---
+
+## Step-by-Step Issuance Procedure
+
+### Option 1: Digital / E-Khidmat Markaz (e.g. Punjab e-Khidmat / Domicile Management System - DMS)
+1. **Visit Center / Portal**: Visit the District Citizen Facilitation Center (e-Khidmat Markaz / Khidmat Center) or district DMS web portal.
+2. **Token Generation**: Collect a "Domicile" service token.
+3. **Data & Biometric Capture**:
+   - Operator scans educational proofs, CNIC, and utility bills into the digital system.
+   - Digital photograph and thumbprints are acquired.
+4. **Tehsildar / Halqa Patwari Verification**:
+   - The revenue authority (Halqa Patwari / Kanungo / Tehsildar) verifies land/residence claims electronically or through field reporting.
+5. **Approval by Assistant Commissioner / Deputy Commissioner**:
+   - The authorized District Magistrate or AC approves the electronic certificate.
+6. **Certificate Printing & Handover**:
+   - Domicile Certificate is printed on secure security watermark paper with an embedded QR code for electronic verification.
+   - Ready within 3 to 7 working days.
+
+### Option 2: Traditional District Court / DC Office Track
+1. Obtain Form-A from the District Kutchery / DC Office revenue section.
+2. Get the form attested by Halqa Patwari and Tehsildar with official revenue stamp.
+3. Submit application along with paid NBP treasury challan at the DC Office Domicile Branch.
+4. Appear for brief verification interview before the Assistant Commissioner or designated Magistrate.
+5. Collect the stamped Domicile Certificate upon receipt.
+
+---
+
+## Fee Structure and Timelines
+
+| Service Channel | Government Fee | Processing Timeline |
+|---|---|---|
+| E-Khidmat Markaz (Digital Track) | Rs. 200 - Rs. 500 | 3 to 5 Working Days |
+| Traditional DC Office Track | Rs. 100 - Rs. 300 | 7 to 15 Working Days |
+| Urgent Service (where available) | Rs. 500 - Rs. 1,000 | 24 to 48 Hours |
+
+---
+
+## Key Rules & Cancellation
+- **Transfer of Domicile**: If a citizen permanently moves their domicile to another district, they must first apply for formal cancellation and surrender of their previous district domicile before a new certificate can be legally granted.
+- **Online Verification**: Most modern domiciles feature a QR code that can be scanned by universities and public service commissions to confirm authenticity instantly.
+- Disclaimer: Procedures and fee figures are illustrative for demo guidance. Verify with the local District Deputy Commissioner Office.

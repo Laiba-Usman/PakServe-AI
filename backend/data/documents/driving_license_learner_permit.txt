@@ -1,0 +1,65 @@
+# Driving License Authority (DLIMS / Traffic Police) - Learner Driving Permit Guide
+
+## Overview
+A Learner Driving Permit is the mandatory first step for any individual seeking to operate a motor vehicle on public roads in Pakistan. The permit authorizes the holder to practice driving under the supervision of a licensed driver holding a valid permanent license for that vehicle category.
+
+Provincial Traffic Police departments (e.g. Punjab DLIMS, Sindh Driving License Branch, KPK Traffic Police, Balochistan, and Islamabad Traffic Police - ITP) manage issuance. Across most provinces, learner permits can now be acquired both **online** through official web portals (such as dlims.punjab.gov.pk) and **in-person** at Police Khidmat Marakaz (PKM) / Traffic Licensing Centers.
+
+---
+
+## Eligibility Criteria & Age Limits
+- **Motorcycle / Motor Car / Jeep (Non-Commercial)**: Minimum 18 years of age.
+- **Auto Rickshaw / Light Transport Vehicle (LTV / Taxi)**: Minimum 21 years of age.
+- **Heavy Transport Vehicle (HTV / Public Service Vehicle - PSV)**: Minimum 22 years of age (requires existing valid LTV license held for at least 3 years).
+- Applicant must be a Pakistani citizen with a valid CNIC / Smart ID card or a foreigner with valid passport/visa.
+
+---
+
+## Required Documents Checklist
+1. **Original Valid CNIC / Smart NIC** (along with 1 clear photocopy).
+2. **Medical Fitness Certificate (Form-B)**: Required for applicants aged 50+ or for commercial vehicle categories (LTV/HTV).
+3. **Passport Size Photograph**: 1 recent photograph with blue/white background (captured live digitally at most licensing centers).
+4. **Paid Fee Challan / PSID**: Generated online or paid via e-Pay Punjab / Sindh e-Payment / ITP counters.
+5. **Blood Group Record**: Stated or verified via laboratory report.
+
+---
+
+## Application Channels & Step-by-Step Procedure
+
+### 1. Online Issuance (e.g., Punjab DLIMS Portal - dlims.punjab.gov.pk)
+1. Visit the official licensing portal and register with your CNIC, mobile number, and email.
+2. Select "Apply for Learner Permit".
+3. Enter CNIC number, date of birth, blood group, current address, and select vehicle category (Motorcycle, Car/Jeep, LTV, etc.).
+4. Upload a clear photograph (under 500KB) and scanned copy of front and back of CNIC.
+5. Generate PSID code for online fee payment.
+6. Pay fee using 1Link / Easypaisa / JazzCash / ATM / Mobile Banking App.
+7. Once payment status reflects "Paid", download and print the official Computerized Learner Driving Permit instantly with embedded QR code.
+
+### 2. In-Person at Police Khidmat Markaz (PKM) / Traffic Headquarters
+1. Walk in to the nearest Police Khidmat Markaz, Traffic Police Driving License Center, or mobile licensing van.
+2. Obtain a token from the automated ticketing queue.
+3. Present original CNIC at the data capture desk.
+4. Live photo and eye-sight / color-blindness test is conducted on-site.
+5. Pay ticket fee at the counter.
+6. Learner permit is printed on secure laminated card/paper and handed over immediately.
+
+---
+
+## Fee Structure and Validity
+
+| Vehicle Category | Permit Fee (Annual) | Validity Period | Mandatory Practice Period |
+|---|---|---|---|
+| Motorcycle Only | Rs. 500 - Rs. 1,000 | 6 Months / 1 Year | Minimum 42 Days |
+| Motor Car / Jeep | Rs. 500 - Rs. 1,000 | 6 Months / 1 Year | Minimum 42 Days |
+| Motorcycle + Car/Jeep (Combined) | Rs. 1,000 - Rs. 1,500 | 6 Months / 1 Year | Minimum 42 Days |
+| LTV / Commercial | Rs. 1,000 - Rs. 2,000 | 6 Months | Minimum 42 Days |
+
+*The learner permit is valid for 6 months across most provinces. A mandatory waiting period of **42 days** from the date of permit issuance is legally required before an applicant can appear for the permanent driving license test.*
+
+---
+
+## Driving Regulations for Learner Drivers
+- A prominent red **"L"** sign (measuring at least 4 inches high) must be affixed to the front and rear windshield / body of the practicing vehicle.
+- A learner driver must always be accompanied in the passenger seat by a licensed driver with an active permanent driving license for that category.
+- Carrying pillion passengers on a motorcycle while on a learner permit is strictly prohibited (except for a licensed instructor).
+- Disclaimer: Regulations and fees are illustrative for demo guidance. Consult local provincial Traffic Police / DLIMS portals for exact regional fee schedules.

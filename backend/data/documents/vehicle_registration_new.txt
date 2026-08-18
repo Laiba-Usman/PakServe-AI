@@ -1,0 +1,62 @@
+# Excise, Taxation & Narcotics Control Department - New Motor Vehicle Registration Guide
+
+## Overview
+All newly purchased motor vehicles (Motorcycles, Motor Cars, Commercial Vans, Trucks, Tractors) manufactured locally or imported into Pakistan must be registered with the relevant Provincial Excise, Taxation and Narcotics Control Department (e.g., Punjab Excise, Sindh Excise, KPK Excise, Balochistan, or Islamabad Excise & Taxation Department) before being operated on public roads.
+
+Operating an unregistered vehicle or using "Applied For Registration" (AFR) number plates is strictly illegal under the Motor Vehicles Act and attracts immediate vehicle impoundment and traffic challans.
+
+---
+
+## Eligibility Criteria
+- Vehicle purchaser must be a Pakistani citizen holding a valid CNIC / Smart NIC or a registered corporate entity holding an active NTN.
+- Vehicle must be brand new from an authorized local auto manufacturer / assembler (OEM) OR legally imported through Pakistan Customs with paid import duties.
+- Registration must generally be initiated within **60 days of vehicle invoice / customs clearance date** to avoid late registration penalty surcharges.
+
+---
+
+## Required Documents Checklist
+
+### For Locally Assembled (Brand New OEM) Vehicles:
+1. **Original Sales Invoice (Factory Invoice)**: Issued by the automobile manufacturer (e.g. Indus Motor, Pak Suzuki, Honda Atlas, etc.) in the name of the purchaser.
+2. **Original Sale Certificate (Form-F / Delivery Order)**: Issued by the authorized automobile dealership.
+3. **Original Valid CNIC of Purchaser** + 2 photocopies (or Certificate of Incorporation / NTN for companies).
+4. **Biometric Verification Slip / NADRA E-Sahulat Verification**: Purchaser must provide biometric verification at NADRA e-Sahulat / Excise counter.
+5. **Active Taxpayer Proof (Filer/Non-Filer Status)**: To establish applicable Advance Income Tax rate under FBR Section 231B.
+6. **Application Form-F**: Filled and signed by the purchaser.
+
+### For Imported (CBU / Auction / Used) Vehicles:
+1. **Original Bill of Entry / Goods Declaration (GD)**: Showing clearance through Pakistan Customs.
+2. **Import Bill of Lading (B/L)** and Customs Duty Payment Challan (showing paid customs duty, sales tax, regulatory duty).
+3. **Vehicle De-Registration Certificate / Export Certificate** from the country of origin (Japan, UK, etc.).
+4. **Passport / CNIC copy of the importer / scheme beneficiary** (Gift Scheme / Baggage Scheme / Transfer of Residence).
+
+---
+
+## Step-by-Step Registration Procedure
+
+### 1. Online / Digital Registration (e.g. Punjab e-Pay / e-Registration):
+1. **Invoice Verification**: Authorized dealership enters vehicle engine and chassis details directly onto the central Excise portal upon sale.
+2. **Biometric Authorization**: Buyer visits nearest NADRA e-Sahulat center or uses provincial biometric app to authorize new vehicle registration on their CNIC.
+3. **Fee Calculation & PSID**: The system automatically computes Registration Fee, Motor Vehicle Token Tax, Advance Withholding Tax (Section 231B based on Filer/Non-Filer status), and Number Plate Fee.
+4. **Payment via e-Pay**: Pay via 1Link PSID through ATM, mobile banking, Easypaisa, or JazzCash.
+5. **Physical Inspection & Document Verification**: In certain provinces/offices, the vehicle is presented at the Excise Motor Branch for physical chassis pencil-print verification.
+6. **Smart Registration Card Issuance**: The computerized Smart Registration Card (chip-based vehicle ownership card) is printed and dispatched to the owner's postal address.
+
+---
+
+## Key Fee Components for New Vehicle Registration
+
+| Fee Head | Description / Rate |
+|---|---|
+| **Registration Fee** | 1% to 3% of vehicle invoice value (depending on engine CC capacity: <1000cc, 1000-2000cc, >2000cc). |
+| **Advance Income Tax (Sec 231B)** | Fixed FBR tax: Much lower for Filers (e.g. Rs. 10,000 - Rs. 50,000) vs Non-Filers (Rs. 30,000 - Rs. 150,000+ for luxury vehicles). |
+| **Annual Token Tax** | Annual road tax calculated according to engine displacement (CC rating) or fixed seating capacity. |
+| **Computerized Number Plate Fee** | Standard provincial pair fee (approx Rs. 1,500 to Rs. 2,500). |
+| **Smart Card Fee** | Approx Rs. 500 to Rs. 1,000 for chip-based registration card. |
+
+---
+
+## Important Rules & Notice
+- Vehicles cannot be registered in the name of an individual whose CNIC is blocked or expired.
+- Always retain the original vehicle sales file and invoice documents safely, as they are mandatory for future ownership transfer and resale.
+- Disclaimer: Tax rates, registration slabs, and fees are illustrative for demo purposes. Consult official provincial Excise portals (e.g., excise.punjab.gov.pk / excise.gos.pk / islamabadexcise.gov.pk).

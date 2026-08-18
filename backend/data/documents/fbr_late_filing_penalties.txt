@@ -1,0 +1,64 @@
+# Federal Board of Revenue (FBR) - Late Filing Penalties & ATL Surcharge Guide
+
+## Overview
+Filing your Income Tax Return after the official statutory deadline (typically September 30th or officially notified extension dates) triggers specific financial penalties, administrative restrictions, and removal from the primary Active Taxpayer List (ATL). 
+
+Under Pakistani tax law (Income Tax Ordinance, 2001, Section 182 and Section 182A), late filers must pay a mandatory statutory **ATL Surcharge (Late Surcharge Fee)** to restore their status to "Active" (Filer).
+
+---
+
+## Consequences of Non-Filing and Late Filing
+
+### 1. Ineligibility for Automatic Active Taxpayer List (ATL) Inclusion:
+- A person who fails to file their return on or before the due date will **NOT** automatically appear on the Active Taxpayer List on 1st March when the new ATL is refreshed.
+- Their status reflects as **"Inactive" / "Non-Filer"**, subjecting them to higher withholding tax rates across all economic activities.
+
+### 2. High Withholding Tax Penalties on Non-Filers:
+- **Banking Cash Withdrawals & Transfers**: Significant withholding tax on non-filers for daily cash withdrawals exceeding Rs. 50,000.
+- **Motor Vehicle Registration & Transfer**: 100% to 200% higher advance tax on purchase, import, and registration of motor cars.
+- **Property Purchases & Sales (Sections 236C / 236K)**: Up to triple the rate of advance tax on real estate transactions.
+- **Dividend and Profit on Debt**: 30% withholding tax on bank savings profit (compared to 15% for filers).
+- **International Debit/Credit Card Spend**: 10% withholding tax for non-filers (compared to 5% for filers).
+
+### 3. Statutory Penalties Under Section 182:
+- General penalty for failure to furnish return of income within the due date: Minimum penalty of **Rs. 1,000 for each day of default**, subject to minimum penalties of Rs. 10,000 for individuals and higher thresholds for corporations.
+
+---
+
+## How to Restore Active (ATL) Status After Late Filing: The ATL Surcharge (Section 182A)
+
+If you file your return after the due date, you can still become an Active Taxpayer immediately by paying the statutory **ATL Surcharge Challan (Form 182A)**.
+
+### Statutory ATL Surcharge Rates:
+- **Individual Taxpayers (Salaried / Sole Business)**: **Rs. 1,000**
+- **Association of Persons (AOPs / Partnership Firms)**: **Rs. 10,000**
+- **Companies (Private Limited / Public Limited / Corporate)**: **Rs. 20,000**
+
+---
+
+## Step-by-Step Procedure to Pay ATL Surcharge & Activate Status
+
+1. **Submit Late Return**: First, complete and submit your Form 114 (Income Tax Return) and Form 116 (Wealth Statement) on IRIS 2.0.
+2. **Access e-Payment Portal**:
+   - Go to `e.fbr.gov.pk` or log in to IRIS and select **"e-Payment"** -> **"Create Payment"**.
+3. **Select Tax Type & Surcharge Option**:
+   - Tax Type: **Income Tax**.
+   - Tax Year: Select the relevant late filing Tax Year.
+   - Payment Nature: Select **"Surcharge Section 182A (ATL Surcharge)"** or **"Misc / Surcharge"**.
+4. **Generate PSID**:
+   - Enter your CNIC / NTN.
+   - The system automatically populates the surcharge amount (Rs. 1,000 for individuals).
+   - Click "Create PSID".
+5. **Pay PSID via Online Banking**:
+   - Copy the 17-digit PSID.
+   - Pay via 1Link Bill Payment in your mobile banking app, ATM, or over-the-counter at National Bank of Pakistan (NBP).
+6. **Instant ATL Activation**:
+   - Once payment is confirmed by the 1Link switch, the FBR ATL database updates automatically within 2 to 24 hours.
+   - You can verify your active status by sending SMS `ATL <13-digit CNIC>` to **9966**.
+
+---
+
+## Important Rules & Notes
+- Paying the ATL surcharge activates your filer status for the remaining duration of that tax year's active list cycle (until February 28th of the subsequent year).
+- To avoid repeating the surcharge every year, always submit your return before the notified September 30 deadline.
+- Disclaimer: Statutory penalties and surcharge amounts are illustrative for demo guidance. Check official FBR rules at fbr.gov.pk.

@@ -1,0 +1,72 @@
+# NADRA - Family Registration Certificate (FRC) Issuance Guide
+
+## Overview
+A **Family Registration Certificate (FRC)** is an official document issued by NADRA that validates the applicant's family composition and structural tree registered in NADRA's centralized database. 
+
+FRC is widely demanded for:
+- Foreign Visa applications (Schengen, UK, US, Canada, Australia, Gulf countries)
+- Immigration and Family Reunification cases
+- Legal inheritance, succession, and property division settlements
+- Court matters requiring verified legal heirship
+
+---
+
+## Types of Family Registration Certificates (FRC)
+NADRA provides three distinct categories of FRC based on applicant requirement:
+
+1. **FRC by Birth (Lineage with Parents & Siblings)**:
+   - Lists the applicant along with their Father, Mother, Brothers, and Sisters.
+   - Used predominantly by unmarried individuals or for inheritance claims tracing to parental estate.
+2. **FRC by Marriage (Immediate Nuclear Family)**:
+   - Lists the applicant along with their Spouse (Husband/Wife) and Children.
+   - Used by married couples for spouse visas, family visit visas, or children sponsorship.
+3. **FRC by Adoption**:
+   - Lists adopted children with legal guardian/adoptive parents pursuant to a valid court adoption decree.
+
+---
+
+## Prerequisites and Eligibility
+- All family members listed in the requested certificate must be registered in the NADRA database with valid CNICs (for adults) or B-Forms/CRC (for minors under 18).
+- If any family member's data is incomplete or has unlinked parentage in the database, the FRC cannot be printed until that record is corrected.
+- Applicant must be a registered member within that specific family tree.
+
+---
+
+## Application Channels & Procedure
+
+### 1. In-Person at NADRA Registration Center (NRC) / Executive Center:
+- Visit any NRC or Mega Center with your original CNIC.
+- Take an "FRC" service token.
+- Provide the CNIC numbers of your parents/siblings (for By Birth) or spouse/children (for By Marriage).
+- The operator retrieves the family tree on screen for visual verification by the applicant.
+- Applicant provides live thumbprint biometric verification.
+- Pay the certificate fee at the counter.
+- The FRC is printed instantly on high-security watermark paper with an official QR code and handed to the applicant within 15-30 minutes.
+
+### 2. Online via Pak-ID Portal (id.nadra.gov.pk):
+- Log in to your Pak-ID account.
+- Select "Family Registration Certificate (FRC)".
+- Choose category (By Birth or By Marriage) and enter applicant CNIC.
+- System automatically retrieves all linked family records.
+- If photographs of minor children are missing, upload passport-sized digital photos.
+- Provide applicant biometric verification (via Pak-ID mobile app).
+- Pay fee via credit/debit card.
+- A secure PDF version of the FRC with digital signature and verification QR code is emailed directly to the applicant within 24 to 48 hours.
+
+---
+
+## Fee Structure and Delivery Time
+
+| Channel | Service Fee | Delivery Time |
+|---|---|---|
+| In-Person at NRC / Mega Center | Rs. 1,000 | Instant / Same Day (15-30 Mins) |
+| In-Person at Executive Center | Rs. 1,500 | Instant (Priority Lounge) |
+| Online via Pak-ID Portal | Rs. 1,000 (~$3.60 USD) | 24 - 48 Hours (PDF via Email) |
+
+---
+
+## Key Notes and Troubleshooting
+- **Missing Family Member**: If a sibling or child does not show up in the family tree, they must first update their B-Form or CNIC linking their parents' CNIC numbers before the FRC will reflect them.
+- **Deceased Relatives**: Deceased parents or spouses will show status as 'Deceased' provided their death certificates were properly registered with NADRA.
+- **Embassy Attestation**: For certain embassies, the FRC printed by NADRA does not require additional Ministry of Foreign Affairs (MOFA) attestation due to the embedded verification QR code, though checking embassy-specific visa rules is recommended.
+- Disclaimer: Procedures and fees are illustrative for demo purposes. Check official NADRA portal (id.nadra.gov.pk) or helpline 1777 for exact details.

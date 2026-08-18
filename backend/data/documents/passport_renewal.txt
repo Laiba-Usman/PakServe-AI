@@ -1,0 +1,67 @@
+# Directorate General of Immigration & Passports (DGIP) - Passport Renewal Guide
+
+## Overview
+A Pakistani Machine Readable Passport (MRP) or E-Passport can be renewed when it has expired, is within 12 months (1 year) of expiration, or when all visa pages have been exhausted. Holding a valid passport is essential for foreign employment, international education, pilgrimage (Hajj/Umrah), and leisure travel.
+
+Renewal can be conducted via two primary channels:
+1. **In-Person** at any Regional Passport Office (RPO) or Executive Passport Office (EPO) across Pakistan.
+2. **Online** via the official DGIP Online Passport Portal (onlinemrp.dgip.gov.pk) for standard renewals without data modifications.
+
+---
+
+## Eligibility Criteria for Passport Renewal
+- Existing passport has expired, is expiring within 365 days, or has no blank visa pages remaining.
+- Applicant must possess an active, unexpired CNIC / Smart NIC / NICOP.
+- If applying online, there must be NO changes to the applicant's core biodata (Name, Father's Name, Date of Birth). If data modifications are needed, the applicant MUST visit an RPO in person.
+- Minors (below 18 years) can renew their passports through the physical office or online portal with parental consent.
+
+---
+
+## Required Documents for Renewal
+
+### In-Person at Regional Passport Office:
+1. **Original Previous Passport** (plus clear photocopy of first 2 bio-data pages).
+2. **Original CNIC / SNIC / NICOP** (plus 1 photocopy).
+3. **Passport Fee Asaan Paid Challan** (PSID receipt paid via mobile banking/ATM/NBP).
+4. **Valid Residence Visa / Work Permit copy** (if renewing at foreign missions abroad).
+5. **Departmental Permission / NOC** (if applicant joined Government service after previous passport issuance).
+
+### Online Renewal via e-Services Portal:
+1. Scanned copy of **Original Valid CNIC / NICOP / Smart Card** (both sides, color scan).
+2. Scanned copy of **Previous Passport** (Pages 1 & 2, and observation pages if any).
+3. Digital Passport Photograph on pure white background (dimensions: 45mm x 35mm, JPEG format, under 1MB).
+4. Scanned copy of **Valid Foreign Visa / Resident Card** (for overseas Pakistanis).
+5. Credit/Debit Card (Visa / MasterCard) for direct online fee transaction.
+
+---
+
+## Step-by-Step Online Renewal Walkthrough
+
+1. **Visit Portal**: Go to onlinemrp.dgip.gov.pk and create an account with a verified email.
+2. **Start Application**: Select "Apply for Renewal of Machine Readable Passport".
+3. **Fill Personal Details**: Confirm your CNIC number, present residential address, and permanent address.
+4. **Upload Documents**: Upload scanned copy of CNIC, previous passport pages, and digital photo meeting ICAO standards.
+5. **Fingerprint Acquisition Form**:
+   - Download the generated Fingerprint form.
+   - Place ink impressions of all 4 specified fingers.
+   - Scan at 600 DPI (grayscale/color) and re-upload to the portal.
+6. **Payment**: Pay fee through the integrated secure card payment gateway.
+7. **Processing & Tracking**: DGIP processing team reviews and verifies the application against immigration databases. An SMS / email notification with tracking number is generated.
+8. **Delivery**: The newly printed passport is securely couriered to your doorstep via DHL / Express Courier.
+
+---
+
+## Processing Timelines for Renewal
+
+| Service Category | Working Days (Domestic) | Working Days (International Courier) |
+|---|---|---|
+| Normal Track | 15 to 21 Working Days | 20 to 25 Working Days |
+| Urgent Track | 5 to 7 Working Days | 10 to 12 Working Days |
+| Fast Track | 2 to 3 Working Days | Not available overseas |
+
+---
+
+## Important Rules & Notes
+- **Expired Passport Cancellation**: The applicant's previous passport will be physically cancelled (stamped "CANCELLED WITHOUT PREJUDICE TO VALID VISAS") upon receiving the new passport. Any unexpired visas in the old passport remain legally valid and must be carried together with the new booklet.
+- **Lost Passports**: Cannot be renewed online. Must follow the Lost Passport procedure at an RPO.
+- Disclaimer: Information is illustrative for demo guidance. Verify current policies with DGIP at onlinemrp.dgip.gov.pk.

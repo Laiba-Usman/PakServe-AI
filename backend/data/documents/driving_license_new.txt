@@ -1,0 +1,74 @@
+# Driving License Authority (DLIMS / Traffic Police) - Regular / Permanent Driving License Issuance
+
+## Overview
+A Permanent Computerized Driving License authorizes a citizen to independently operate specified categories of motor vehicles (Motorcycle, Car/Jeep, LTV, HTV, Tractor, etc.) on public thoroughfares across Pakistan. 
+
+To convert a Learner Driving Permit into a full Permanent Driving License, the applicant must complete the mandatory 42-day practice period, clear a Computerized Sign Test (Theory / Road Signs), and pass an On-Field Practical Driving Test (Physical driving track maneuver test) conducted by Traffic Police testing officers.
+
+---
+
+## Eligibility Criteria
+- Completed mandatory minimum **42 days** from the issuance date of the active Learner Permit.
+- Minimum age:
+  - 18 years for Motorcycle and Non-Commercial Motor Car / Jeep.
+  - 21 years for Light Transport Vehicle (LTV) / Rickshaw.
+  - 22 years for Heavy Transport Vehicle (HTV) (requires 3 years prior LTV driving experience).
+- Medically fit with adequate visual acuity (tested through medical examination or on-site eyesight screening).
+
+---
+
+## Required Documents Checklist
+1. **Original Active Learner Driving Permit** (must be at least 42 days old).
+2. **Original Valid CNIC / SNIC** + 2 photocopies.
+3. **Medical Fitness Certificate (Form-B)**: Signed and stamped by a registered medical practitioner (mandatory for commercial categories LTV/HTV and candidates aged 50+).
+4. **Passport-Sized Photographs**: 2 recent passport-size photos with blue/white background (if not captured digitally at center).
+5. **Paid Application Ticket / Challan Receipt**: Form fee + licensing fee paid via automated PSID or licensing bank counter.
+6. **Vehicle for Practical Test**: Candidate must bring their own road-worthy vehicle corresponding to the applied category (or pay a nominal fee to use traffic school test vehicles where available).
+
+---
+
+## Step-by-Step Testing & Licensing Process
+
+### Stage 1: Theory Test (Sign & Road Rules Test)
+1. Report to the Traffic Police Testing Center (e.g. PKM / DLIMS testing track / ITP Center).
+2. Present your CNIC and 42-day completed Learner Permit at the registration counter.
+3. Sit at a Computerized Touchscreen Testing Kiosk.
+4. The test presents a series of multiple-choice questions on traffic signs (Mandatory, Warning, Informatory) and right-of-way rules.
+5. Minimum passing score is typically 80% (e.g. answering at least 8 out of 10 questions correctly within 3 minutes).
+6. Result is displayed instantly on screen. If passed, proceed to Stage 2.
+
+### Stage 2: Practical Field Driving Test
+1. Candidate reports to the driving track with test vehicle.
+2. The practical test evaluates:
+   - **Pre-drive inspection**: Mirror adjustment, seatbelt fastening, handbrake release, and turn indicator usage.
+   - **Parallel / Perpendicular Parking**: Reversing into a defined cone-marked parking bay without touching boundary cones.
+   - **"L-Shape" / "S-Shape" Reverse Track**: Driving forward through a designated track and reversing smoothly all the way back without halting the engine, exceeding boundary lines, or touching cones.
+   - **Slope / Gradient Test** (in certain centers): Starting smoothly on an incline without rolling backward.
+3. The Traffic Inspector marks the candidate as "Pass" or "Fail".
+
+### Stage 3: Card Production and Delivery
+1. Upon clearing both tests, the officer stamps the passing dossier.
+2. Candidate proceeds to the delivery desk, verifies delivery address, and completes biometric authorization.
+3. The Smart Chip Driving License is dispatched to the applicant's residential address via Pakistan Post (EMS / UMS) or courier within 7 to 14 working days.
+4. A digital e-License can also be downloaded immediately from the DLIMS portal/app.
+
+---
+
+## Fee Structure and Validity
+
+| Category | 5-Year License Fee | 10-Year License Fee |
+|---|---|---|
+| Motorcycle | Rs. 1,000 - Rs. 1,800 | Rs. 2,000 - Rs. 3,000 |
+| Motor Car / Jeep | Rs. 1,800 - Rs. 3,000 | Rs. 3,500 - Rs. 5,000 |
+| Motorcycle + Car (Combined) | Rs. 2,500 - Rs. 4,000 | Rs. 4,500 - Rs. 7,000 |
+| LTV / HTV | Rs. 3,000 - Rs. 5,000 | N/A (Subject to medical re-certification) |
+
+*Card delivery courier fee (approx Rs. 200 - Rs. 300) is charged separately at checkout.*
+
+---
+
+## What Happens if You Fail the Test?
+- If an applicant fails the Theory Sign Test, they can re-appear after **48 hours to 7 days** depending on provincial rules.
+- If an applicant fails the Practical Track Test, they must wait a mandatory re-test period of **15 to 42 days** before attempting again.
+- No new learner permit is required during re-tests as long as the original permit remains valid.
+- Disclaimer: Procedures and fee schedules are illustrative for demo guidance. Verify with your provincial DLIMS / Traffic Police.

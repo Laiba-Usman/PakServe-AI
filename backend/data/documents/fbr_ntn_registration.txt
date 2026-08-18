@@ -1,0 +1,72 @@
+# Federal Board of Revenue (FBR) - National Tax Number (NTN) Registration Guide
+
+## Overview
+The National Tax Number (NTN) is a unique tax identifier issued by the Federal Board of Revenue (FBR), Government of Pakistan. Obtaining an NTN is the primary legal step toward becoming a registered taxpayer, opening corporate bank accounts, conducting high-value property or vehicle purchases at reduced tax withholding rates, and obtaining an Active Taxpayer List (ATL) "Filer" status.
+
+Under the modernized FBR IRIS e-Services system, an individual's **13-digit CNIC number serves directly as their NTN**. Online registration takes less than 10 minutes and is completely **free of charge**.
+
+---
+
+## Types of NTN Registration
+1. **Individual Salaried NTN**: For individuals earning income primarily from employment / salary.
+2. **Individual Business (Sole Proprietorship) NTN**: For self-employed professionals, freelancers, sole owners of small and medium businesses.
+3. **Association of Persons (AOP / Partnership) NTN**: For registered partnership firms with multiple partners.
+4. **Corporate Company (Pvt Ltd / Public Ltd) NTN**: For corporate entities registered under the Securities and Exchange Commission of Pakistan (SECP).
+
+---
+
+## Required Information and Documents
+
+### For Individual (Salaried / Unregistered Sole Owner):
+- **13-digit CNIC / SNIC Number**.
+- **Personal Active Mobile Number**: Must be registered in the applicant's own name/CNIC with a telecom operator (required for SMS OTP verification).
+- **Personal Active Email Address**: For receiving system activation codes and official tax notices.
+- **Residential Address Details** and recent paid utility bill (Electricity or Gas) consumer number for address proof.
+
+### For Sole Proprietorship / Business Individual:
+- **Business Name** and Date of Commencement.
+- **Principal Business Activity** (selected from standard industrial classification codes).
+- **Business Premises Ownership Proof** (Paid utility bill in business name / landlord name, or registered Rent/Lease Agreement).
+- **Letterhead and Business Rubber Stamp**.
+
+### For AOPs and Private Limited Companies:
+- Partnership Deed and Form-C (for AOPs) OR Certificate of Incorporation and Memorandum & Articles of Association (for SECP Companies).
+- CNICs and NTNs of all Partners / Directors.
+- Board Resolution appointing Principal Officer / Authorized Representative.
+
+---
+
+## Step-by-Step Online Registration via FBR IRIS Portal
+
+1. **Access Portal**: Visit the official FBR IRIS 2.0 portal at `iris.fbr.gov.pk`.
+2. **Select Registration**: Click on the **"Registration for Unregistered Person"** link on the login screen.
+3. **Enter Basic Bio-Data**:
+   - Provide CNIC number, nationality, name prefix, first name, and surname.
+   - Enter your personal Cell Phone Number and Email Address.
+4. **OTP Verification**:
+   - The IRIS system sends two distinct verification codes: one via SMS to your mobile phone, and one via Email.
+   - Enter both OTP codes into the verification boxes and submit.
+5. **Receive Login Credentials**:
+   - Once verified, FBR instantly transmits your **Registration Number (your CNIC)**, default **Password**, and a 4-digit confidential **PIN** to your registered SMS and Email.
+6. **Log in to IRIS**:
+   - Log in using your CNIC and received password.
+   - To add a business name or bank account: Navigate to **Form 181 (Application for modification in Income Tax Registration)**.
+   - Add business particulars, commercial address, and IBAN (International Bank Account Number).
+   - Submit Form 181 with your 4-digit electronic PIN.
+7. **Download NTN / Registration Certificate**:
+   - Navigate to the "Print" / "Registration Certificate" option on IRIS dashboard.
+   - Download and save your official 181 Order / Taxpayer Registration Certificate PDF.
+
+---
+
+## Fee and Processing Time
+- **Official FBR Registration Fee**: **Rs. 0 (100% Free)**.
+- **Processing Time**: Instantaneous (System generates credentials automatically within minutes upon OTP confirmation).
+
+---
+
+## Key Benefits of Having an NTN and Active Taxpayer Status
+- **Lower Withholding Tax**: Active taxpayers (Filers) enjoy 50% to 100% lower withholding tax rates on banking transactions, dividend income, prize bonds, vehicle registration, and real estate property sales/purchases compared to non-filers.
+- **Formal Credit Access**: Mandatory requirement for obtaining commercial loans, car financing, and business credit lines.
+- **Legal Compliance**: Avoids bank account freezing, non-filer penal notices, and mobile SIM blockages introduced under national tax compliance frameworks.
+- Disclaimer: Information is illustrative for demo guidance. Register safely at official portal iris.fbr.gov.pk or call FBR Helpline (051-111-772-772).

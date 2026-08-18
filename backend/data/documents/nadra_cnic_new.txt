@@ -1,0 +1,63 @@
+# NADRA - New Computerized National Identity Card (CNIC / SNIC) Issuance Guide
+
+## Overview and Eligibility
+The Computerized National Identity Card (CNIC) or Smart National Identity Card (SNIC) is the primary proof of citizenship and identity for Pakistani nationals aged 18 and above. A first-time applicant (fresh card) must visit a National Database and Registration Authority (NADRA) Registration Center (NRC) in Pakistan or apply via the Pak-ID online portal if residing abroad (NICOP).
+
+### Eligibility Criteria:
+- Applicant must be a citizen of Pakistan.
+- Applicant must have attained the age of 18 years.
+- Applicant must possess a valid Child Registration Certificate (CRC / B-Form) or standard Birth Certificate issued by the Union Council.
+- At least one blood relative (father, mother, brother, sister, son, or daughter) with a valid CNIC must accompany the applicant for physical biometric attestation, OR a valid attested form signed by a Gazetted Officer (Grade 16 or above / elected representative / Nazim) is required.
+
+---
+
+## Required Documents
+1. **Child Registration Certificate (CRC / B-Form)** or Union Council Birth Certificate (Original + 1 copy).
+2. **CNIC of Parents**: Original CNIC or copy of Father's and Mother's valid CNIC.
+3. **Presence of Blood Relative**: Physical presence of father, mother, brother, or sister holding an active CNIC for instant biometric verification at the counter.
+4. **Alternative Attestation**: In the absence of a blood relative, an application form printed at the NRC counter must be attested by a Gazetted Officer (Grade 16+) / Councilor / Nazim / Member of Parliament.
+5. **Educational / Matriculation Certificate** (Optional, recommended for accurate date of birth verification if discrepancies arise).
+6. **Marriage Certificate (Nikkah Nama)** if the applicant is married and applying as head or under husband's name.
+
+---
+
+## Step-by-Step Application Procedure at NADRA Registration Center (NRC)
+
+1. **Token Issuance**:
+   - Visit the nearest NADRA Registration Center (NRC), Mega Center, or Executive Center.
+   - Enter your CNIC/B-Form number at the reception kiosk to receive a token number.
+2. **Biometrics & Data Entry**:
+   - When your token is called, proceed to the data entry counter.
+   - The data entry operator will capture your live photograph, digital fingerprints (all 10 fingers), and digital signature.
+   - All personal details (Full Name, Father's Name, Date of Birth, Gender, Permanent and Present Addresses, Marital Status) are entered.
+3. **Biometric Verification / Attestation**:
+   - The accompanying blood relative will place their thumb on the biometric scanner to verify family lineage and approve the application instantly.
+4. **Review and Confirmation**:
+   - A draft form is printed (Bay-Form/Application summary). Carefully review all spellings, addresses, and date of birth.
+   - Sign the verified summary.
+5. **Fee Payment**:
+   - Pay the applicable fee at the counter (Cash, Debit/Credit Card, or e-Sahulat).
+   - Collect the tracking receipt containing the 12-digit tracking ID.
+6. **Card Collection / Delivery**:
+   - Track application status via SMS by sending your tracking ID to 8400 or checking the Pak-ID portal.
+   - Collect the card in person from the center upon presentation of the token receipt, or receive it via courier (TCS/Pakistan Post) if home delivery was selected.
+
+---
+
+## Fee Structure and Processing Timelines
+
+| Category / Type | Normal Track | Urgent Track | Executive Track |
+|---|---|---|---|
+| Plain CNIC (Chip-less) | Free (First Time) / Rs. 750 | Rs. 1,150 | Rs. 2,150 |
+| Smart National ID Card (SNIC with Chip) | Rs. 750 | Rs. 1,500 | Rs. 2,500 |
+| Estimated Delivery Time | 30 Working Days | 15 Working Days | 7 Working Days |
+
+*Note: Executive and Mega Centers charge additional counter convenience fees. Fees are subject to revision by the Ministry of Interior/NADRA.*
+
+---
+
+## Important Guidelines
+- Verify both the **Present Address** and **Permanent Address** carefully. Permanent address must match district domicile records or family revenue records.
+- For citizens with physical disabilities (Special Persons), a special logo (wheelchair symbol) is printed on the CNIC upon presenting a disability certificate from the Medical Board / Social Welfare Department.
+- For transgender individuals, NADRA offers Guru registration or biological parent linkage options under special facilitation desks.
+- Disclaimer: Procedural requirements and fee amounts are illustrative for public guidance. Verify with official NADRA channels (helpline 1777 or 051-111-786-100) before visiting.

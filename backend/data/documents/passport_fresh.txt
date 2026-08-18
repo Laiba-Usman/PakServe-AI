@@ -1,0 +1,63 @@
+# Directorate General of Immigration & Passports (DGIP) - Fresh Machine Readable Passport (MRP / E-Passport) Issuance
+
+## Overview
+The Directorate General of Immigration & Passports (DGIP), functioning under the Ministry of Interior, Government of Pakistan, is the sole authority responsible for issuing Machine Readable Passports (MRP) and electronic chip-based E-Passports to Pakistani citizens. 
+
+A "Fresh Passport" application is required for any citizen applying for an international travel document for the very first time. First-time applications must be submitted in person at a Regional Passport Office (RPO), Executive Passport Office (EPO), or Pakistani Foreign Mission abroad for live biometric acquisition.
+
+---
+
+## Eligibility Criteria
+- Must be a verified Pakistani citizen with an active, unblocked record in NADRA's centralized national database.
+- Adults (18 years and above) must possess an original valid CNIC / Smart NIC / NICOP.
+- Minors (below 18 years of age) must possess an original Computerized Child Registration Certificate (B-Form / Smart CRC) along with original CNICs of both parents.
+- Government employees must present an official No Objection Certificate (NOC) / Departmental Permission Certificate issued by their competent controlling authority.
+
+---
+
+## Required Documents Checklist
+
+### For Adult Applicants (18+ Years):
+1. **Original CNIC / SNIC / NICOP** along with two clear photocopies.
+2. **Paid Fee Challan Receipt**: Generated and paid via the **Passport Fee Asaan** mobile app/web portal, or paid through designated National Bank of Pakistan (NBP) branches.
+3. **Departmental NOC** (Mandatory for Armed Forces personnel, Semi-Government, and Autonomous body officers).
+4. **Foreign Passport / Dual Nationality Certificate** (If holding dual nationality).
+
+### For Minor Applicants (Under 18 Years):
+1. **Original Computerized B-Form / CRC** issued by NADRA + 2 photocopies.
+2. **Original CNICs of Father & Mother** + photocopies.
+3. **Physical presence of both parents**:
+   - If one parent is abroad, an attested authorization letter/affidavit from the Pakistani Embassy in that country is required.
+   - In case of divorce/separated parents, certified court order granting legal guardianship/custody is required.
+4. **Minor's Birth Certificate** (supporting document).
+
+---
+
+## Step-by-Step Application Process at Regional Passport Office (RPO)
+
+1. **Pre-Payment via Passport Fee Asaan**:
+   - Download the official "Passport Fee Asaan" App or visit fee.dgip.gov.pk.
+   - Select Passport Type (Machine Readable Passport or E-Passport), Booklet Size (36, 72, or 100 pages), Validity (5 or 10 years), and Delivery Priority (Normal, Urgent, or Fast Track).
+   - Generate the PSID (Payment System Identifier) and pay via 1Link, ATM, EasyPaisa, JazzCash, or online banking. Print/save the paid challan voucher.
+2. **Token Issuance & Customer Service Desk**:
+   - Arrive at the RPO. Show original CNIC and paid PSID receipt at the reception desk to get a digital token number.
+3. **Live Digital Photography**:
+   - Proceed to the photography cabin. High-resolution frontal facial photograph is captured with neutral facial expression according to ICAO international standards.
+4. **Biometric Fingerprint Enrollment**:
+   - Place all 10 fingers on the optical biometric scanner for digital recording and instant cross-verification with NADRA records.
+5. **Data Entry & Summary Verification**:
+   - The data entry operator inputs professional qualification, height, religion, dual nationality status, and emergency contacts.
+   - Review the printed summary slip carefully. Sign the declaration.
+6. **Office In-Charge / Assistant Director Interview**:
+   - Present the application summary and original documents to the Assistant Director (AD) for final interview and administrative clearance.
+   - AD signs off and stamps your official token tracking receipt.
+7. **Passport Tracking and Collection**:
+   - Track application stage by sending token number to 9988 via SMS or visiting dgip.gov.pk.
+   - Collect your fresh passport at the RPO upon presenting your original token slip and CNIC.
+
+---
+
+## Important Rules & Notice
+- No third-party agents or travel agents are authorized to submit passport applications on behalf of citizens.
+- Passports for minors under 15 years of age are issued with a maximum validity of 5 years (10-year passports are not permitted for children under 15 due to facial growth).
+- Disclaimer: Regulations and fees are illustrative for guidance. Check official DGIP website (dgip.gov.pk) or call helpline 051-111-344-777.

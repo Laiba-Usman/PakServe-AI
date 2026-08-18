@@ -1,0 +1,117 @@
+.message-row {
+  display: flex;
+  width: 100%;
+  margin-bottom: 22px;
+  animation: fadeIn 0.25s ease-out;
+}
+
+.user-row {
+  justify-content: flex-end;
+}
+
+.ai-row {
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+/* User Message */
+.user-bubble {
+  max-width: 70%;
+  background-color: var(--color-primary);
+  color: var(--text-inverse);
+  padding: 14px 20px;
+  border-radius: 18px 18px 4px 18px;
+  font-size: 15px;
+  line-height: 1.48;
+  font-weight: 500;
+  box-shadow: var(--shadow-sm);
+  word-break: break-word;
+}
+
+.user-bubble p {
+  margin: 0;
+}
+
+/* AI Message */
+.ai-avatar {
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.ai-avatar-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-full);
+  background-color: #E2ECE7;
+  color: var(--color-primary);
+  font-weight: 700;
+  font-size: 14px;
+  border: 1px solid #CFE0D7;
+}
+
+.ai-bubble-container {
+  max-width: 82%;
+  display: flex;
+  flex-direction: column;
+}
+
+.ai-bubble {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: 4px 18px 18px 18px;
+  padding: 18px 22px;
+  box-shadow: var(--shadow-sm);
+  color: var(--text-main);
+  font-size: 14.5px;
+  line-height: 1.6;
+}
+
+.ai-bubble-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Formatted Elements inside AI Message */
+.msg-h2, .msg-h3, .msg-h4 {
+  font-family: var(--font-serif);
+  color: var(--color-primary);
+  margin-top: 8px;
+  margin-bottom: 2px;
+}
+
+.msg-h2 { font-size: 18px; }
+.msg-h3 { font-size: 16px; }
+.msg-h4 { font-size: 15px; }
+
+.msg-p {
+  margin: 0;
+  color: var(--text-main);
+}
+
+.msg-hr {
+  border: none;
+  height: 1px;
+  background-color: var(--border-light);
+  margin: 8px 0;
+}
+
+.ai-bubble ul, .ai-bubble ol {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.ai-bubble li {
+  color: var(--text-main);
+  line-height: 1.5;
+}
+
+.ai-bubble strong {
+  color: #0A3225;
+}

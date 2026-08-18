@@ -1,0 +1,69 @@
+# Excise, Taxation & Narcotics Control Department - Motor Vehicle Ownership Transfer & Biometric Verification Guide
+
+## Overview
+When a used motor vehicle (Car, Motorcycle, Commercial Van, Jeep) is bought or sold in Pakistan, legal ownership must be formally transferred in the records of the relevant Provincial Excise and Taxation Department. 
+
+To eliminate fraudulent open-letter sales and unauthorized vehicle usage, provincial governments have instituted **Mandatory Biometric Verification** through NADRA e-Sahulat and Excise systems. Both the Seller (Transferor) and Buyer (Transferee) must complete digital biometric authentication within an established timeframe (typically 30 to 60 days) to finalize the transfer of ownership.
+
+---
+
+## Prerequisites & Eligibility
+- Vehicle must have clear title with all outstanding annual Token Taxes paid up to the current fiscal year.
+- Neither seller nor buyer must have expired CNICs or NADRA database blocks.
+- Vehicle must not be flagged in police anti-car lifting (ACLC / AVLS) stolen vehicle databases or have active court litigation / bank lease hypothecation liens (unless official Bank Clearance NOC / Form-35 is provided).
+
+---
+
+## Required Documents Checklist
+
+### For In-Person / Physical Transfer Processing:
+1. **Original Vehicle Registration Book / Smart Registration Card**.
+2. **Original Sales File** (Invoice, Custom Bill of Entry for imported cars, Form-F).
+3. **Valid CNIC Copies of Seller and Buyer**.
+4. **Transfer Order Form (Form-T.O.)** and **Sale Agreement (Form-29 / Form-30)** signed by both parties.
+5. **NADRA e-Sahulat Biometric Verification Slips** for both Seller and Buyer.
+6. **Bank NOC / Removal of Hypothecation Letter (Form-35)** if the vehicle was previously financed on lease.
+7. **Active Taxpayer (ATL) Proof** for Buyer to determine FBR Advance Tax rate under Section 236K / 231B.
+
+---
+
+## Step-by-Step Biometric Transfer Procedure
+
+### Step 1: Initiate Transfer Application
+- Open the provincial Excise portal/app (e.g. e-Pay Punjab, Sindh E-Excise, or ICT Excise).
+- Enter Vehicle Registration Number.
+- Select "Transfer of Motor Vehicle".
+- Enter Buyer's CNIC, Name, Address, and Contact details.
+- System generates an application reference number and 1Link PSID for transfer fees and advance withholding taxes.
+
+### Step 2: Pay Transfer Fees via e-Pay
+- Buyer pays the calculated PSID through online mobile banking, ATM, or Easypaisa/JazzCash.
+
+### Step 3: Biometric Verification by Seller and Buyer
+- **Seller's Biometrics**: The registered vehicle owner visits any authorized NADRA e-Sahulat franchise, Mega NRC, or Police Khidmat Markaz with original CNIC. Places thumbprint to verify intent to sell and transfer the vehicle.
+- **Buyer's Biometrics**: The buyer similarly completes biometric verification within 30 days of seller authorization.
+- Once both biometric verifications match, the application transitions to "Biometrics Completed".
+
+### Step 4: Physical Inspection / Card Processing
+- If mandated by local rules, the vehicle is presented at the Motor Registration Authority (MRA) for physical chassis pencil-rub inspection.
+- The Excise Officer approves the transfer in the central vehicle database.
+- A new chip-based **Smart Vehicle Registration Card** is printed with the buyer's name as the new legal owner and couriered to the buyer's residential address.
+
+---
+
+## Transfer Fee Structure and Advance Tax Slabs
+
+| Fee Category | Description / Amount |
+|---|---|
+| **Transfer Fee** | Fixed based on engine capacity (e.g. Rs. 500 for Bike, Rs. 1,500 - Rs. 5,000 for Cars). |
+| **FBR Advance Tax on Transfer** | Based on CC engine rating and Filer/Non-Filer status (significantly higher for non-filers). |
+| **Smart Card Fee** | Rs. 500 - Rs. 1,000. |
+| **NADRA Biometric Fee** | Approx Rs. 120 - Rs. 200 per person at e-Sahulat kiosk. |
+
+---
+
+## Important Warnings on "Open Letter" Driving
+- Purchasing a vehicle on an "Open Transfer Letter" without executing formal departmental transfer is illegal and carries severe legal liability.
+- If a vehicle registered in your name is involved in a hit-and-run accident or criminal act, the registered owner remains criminally liable under the Pakistan Penal Code and Motor Vehicles Ordinance.
+- Always verify biometric completion before handing over complete physical possession and remaining payment.
+- Disclaimer: Procedures and fee figures are illustrative for demo guidance. Consult official provincial Excise portals for local rules.

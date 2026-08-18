@@ -1,0 +1,73 @@
+# Government of Pakistan - General Civic Services FAQs, Office Timings & Helplines
+
+## Overview
+This document compiles essential cross-departmental guidance, operational timings, official helpline contact numbers, digital portals, and frequently asked questions for primary Pakistani civic service institutions including NADRA, DGIP (Passports), Provincial Traffic Police (DLIMS), FBR (Taxation), and Provincial Excise & Taxation Departments.
+
+---
+
+## Departmental Office Hours & Mega Center Operations
+
+### 1. NADRA Registration Centers (NRCs):
+- **Standard NRCs (Tehsil / City Branches)**: Monday to Friday, 9:00 AM to 5:00 PM (Lunch/Prayer break 1:00 PM to 2:00 PM; Friday 12:30 PM to 2:30 PM).
+- **Mega NRCs (Major Metros: Karachi, Lahore, Islamabad, Rawalpindi, Peshawar, Quetta, Multan, Faisalabad)**: Operate **24 Hours a Day, 7 Days a Week (24/7)** in multiple shifts.
+- **Executive NRCs**: Monday to Saturday, 8:00 AM to 8:00 PM (Special fast-track priority service lounge).
+
+### 2. Regional Passport Offices (DGIP):
+- Monday to Thursday: 8:00 AM to 1:00 PM (Tokens & Document Submission), 1:00 PM to 4:00 PM (Passport Delivery).
+- Friday: 8:00 AM to 12:30 PM (Tokens & Submissions), 2:30 PM to 4:00 PM (Delivery).
+- **Executive Passport Offices (EPOs)**: Monday to Saturday, 9:00 AM to 5:00 PM.
+
+### 3. Traffic Police Driving License Branches & Police Khidmat Marakaz (PKM):
+- **Police Khidmat Marakaz (PKM)**: 24/7 in major divisions, or Monday to Saturday 8:00 AM to 8:00 PM in standard centers.
+- **Regular Driving Licensing Headquarters**: Monday to Saturday, 8:00 AM to 2:00 PM.
+
+### 4. FBR Regional Tax Offices (RTOs):
+- Monday to Friday: 9:00 AM to 5:00 PM (Extended till 10:00 PM / Midnight near annual return filing deadlines around September 30).
+
+### 5. Excise and Taxation Motor Registration Branches:
+- Monday to Friday: 9:00 AM to 3:00 PM (Public dealing), 3:00 PM to 5:00 PM (Administrative processing).
+
+---
+
+## Official National Helplines & Digital Web Portals
+
+| Department / Service | Official Helpline | Official Web Portal / App |
+|---|---|---|
+| **NADRA** (Identity, CNIC, FRC) | **1777** (Mobile) / **051-111-786-100** | id.nadra.gov.pk / Pak-ID App |
+| **DGIP** (Passports & Immigration) | **051-111-344-777** / SMS 9988 | dgip.gov.pk / Passport Fee Asaan App |
+| **FBR** (Taxation, NTN, IRIS) | **051-111-772-772** / SMS ATL to 9966 | iris.fbr.gov.pk / fbr.gov.pk |
+| **Punjab Traffic Police / DLIMS** | **042-99030111** / 15 (Emergency) | dlims.punjab.gov.pk |
+| **Islamabad Traffic Police (ITP)** | **051-9265588** / 1915 | itp.gov.pk |
+| **Sindh Driving License Branch** | **021-99216713** | dls.sindhpolice.gov.pk |
+| **Punjab Excise & Taxation** | **0800-08786** | excise.punjab.gov.pk / e-Pay Punjab |
+| **Sindh Excise & Taxation** | **021-99203671** | excise.gos.pk |
+| **Citizen Citizen Portal (PCP)** | Direct via Citizen Portal Mobile App | citizenportal.gov.pk |
+
+---
+
+## Frequently Asked Cross-Department Questions (FAQs)
+
+### Q1: What is the single most important document for all government services in Pakistan?
+**Ans**: A valid, unexpired Computerized National Identity Card (CNIC) or Smart National Identity Card (SNIC). If your CNIC is expired, blocked, or has incorrect details, transactions across banks, passport offices, vehicle registration, and mobile telecom networks will be halted.
+
+### Q2: What payment methods are accepted for government fees across Pakistan?
+**Ans**: The Federal and Provincial governments utilize the **1Link Payment Switch** via **PSID (Payment System Identifier)**. Citizens can pay almost all official fees (Passport, Driving License, Token Tax, FBR Taxes, Vehicle Registration) through any commercial bank's mobile banking app, ATM, Easypaisa, JazzCash, or bank branch counters by entering the 17-digit PSID voucher number under the "Govt Payments / 1Bill" category.
+
+### Q3: Can blood relatives attest documents at NADRA if I do not have a Gazetted Officer?
+**Ans**: Yes. NADRA accepts instant digital thumbprint attestation by an immediate blood relative (father, mother, brother, sister, son, daughter, or registered spouse) holding a valid CNIC directly at the counter, eliminating the need for manual paper attestation.
+
+### Q4: How long are fee challans valid after generation?
+**Ans**: As a general standard:
+- Passport Fee Asaan PSIDs: 30 days for payment; paid receipts valid for 90 days.
+- FBR e-Payment PSIDs: Valid for 15 to 30 days.
+- Traffic Police Learner/License PSIDs: Valid for 15 to 30 days.
+- Excise e-Pay PSIDs: Valid until the end of the respective tax quarter or month.
+
+### Q5: How do I lodge a complaint against bureaucratic delay or corrupt practices?
+**Ans**: Citizens can register formal grievances through the **Prime Minister's Performance Delivery Unit (PMDU) - Pakistan Citizen's Portal App**, the **Federal Ombudsman (Wafaqi Mohtasib)** helpline (1055), or respective departmental vigilance cells.
+
+---
+
+## Important Notice
+- All fees, timings, and procedural steps documented in this knowledge base are designed to reflect real-world Pakistani civic processes for public guidance and demonstration.
+- Users are encouraged to verify critical transactions with the respective official departmental helplines and web portals before visiting offices.

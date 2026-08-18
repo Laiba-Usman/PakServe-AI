@@ -1,0 +1,64 @@
+# Federal Board of Revenue (FBR) - Annual Income Tax Return Filing for Salaried Individuals
+
+## Overview
+Every individual residing in Pakistan whose total taxable income from salary during a tax year (spanning 1st July to 30th June) exceeds the statutory basic exemption threshold (Rs. 600,000 per annum) is legally mandated under the Income Tax Ordinance, 2001, to file an annual Income Tax Return and Wealth Statement on the FBR IRIS e-portal.
+
+Filing an annual return updates the individual's status to "Active" on the Active Taxpayer List (ATL), significantly reducing withholding taxes on banking transactions, vehicle registration, and property dealings.
+
+---
+
+## Eligibility & Thresholds for Salaried Individuals
+- **Salaried Classification**: An individual is considered "Salaried" if salary income constitutes **more than 50%** of their total taxable income during the tax year.
+- **Tax Year**: Follows the government fiscal cycle (1st July through 30th June). Returns are filed for the preceding tax year (e.g. Tax Year 2024 covers July 1, 2023 to June 30, 2024).
+- **Mandatory Filing Threshold**: Anyone earning an annual income of **Rs. 600,000 or above** (or possessing assets specified by FBR rules such as immovable property or vehicles) must file.
+
+---
+
+## Required Documents Checklist Before Filing
+1. **Annual Salary Certificate / Form 149**: Issued by employer, detailing total gross salary, allowances, medical benefits, provident fund deductions, and tax withheld at source under Section 149.
+2. **Annual Bank Account Statements**: For all active bank accounts from 1st July to 30th June, showing opening balance, total debits/credits, profit on debt earned, and closing balance on 30th June.
+3. **Withholding Tax Certificates (Advance Tax Deductions)**:
+   - Annual Mobile Tax Deduction Certificate (from telecom operators Jazz/Telenor/Zong/Ufone via mobile app).
+   - Vehicle Tax Deduction Certificate / token tax receipts under Section 234 / 231B.
+   - Property transaction tax deduction receipts under Section 236K / 236C.
+   - Banking tax deduction certificates on cash withdrawals or international credit card spend (Section 236Y).
+4. **Wealth / Asset Details (as of 30th June)**:
+   - Residential and commercial property details (cost of purchase).
+   - Motor vehicles owned (registration number, make, purchase price).
+   - Cash in hand, prize bonds, and gold/jewelry value.
+   - Total personal and household expenses incurred during the 12 months.
+
+---
+
+## Step-by-Step Filing Walkthrough on IRIS Portal
+
+### Step 1: Log in and Open Form 114
+- Log in to `iris.fbr.gov.pk` with your CNIC and password.
+- Click on **"Declaration"** in the top menu -> **"Salary Return (Form 114(1) - Return of Income filed voluntarily for complete year)"**.
+- Select the relevant **Tax Year**.
+
+### Step 2: Declare Salary Income & Compute Tax
+- Under **Salary tab (Code 1000)**: Enter Gross Salary received in the "Total Amount" column and amount exempt from tax (if any) in the "Exempt from Tax" column.
+- Under **Adjustable Tax tab (Code 6400)**: Enter taxes already deducted by your employer (under Section 149) and taxes deducted on mobile bills, electricity bills, car token tax, and banking transactions.
+- The system automatically calculates taxable income, applicable tax liability, and offsets advance taxes.
+
+### Step 3: Complete Wealth Statement (Form 116)
+- Every filer must submit a Wealth Statement reconcilable with their income:
+  - **Personal Assets (Code 7001 - 7014)**: List real estate, motor vehicles, bank balances as of 30th June, gold, and other possessions at historical cost.
+  - **Personal Expenses (Code 7051 - 7089)**: Enter total annual household expenses, utility bills, children's school fees, medical expenses, and travel costs.
+  - **Reconciliation of Net Wealth (Code 703001 - 703003)**: System cross-checks:
+    `Net Wealth of Current Year - Net Wealth of Previous Year = Inflows (Salary/Gifts) - Outflows (Expenses)`.
+  - The **"Unreconciled Amount" MUST be Rs. 0** before the form can be submitted.
+
+### Step 4: Verification and Submission
+- Navigate to the **"Verification"** tab.
+- Enter your 4-digit confidential IRIS PIN.
+- Click **"Verify PIN"**.
+- Click **"Submit"**. Once submitted, an official 114(1) Acknowledgment Receipt is generated instantly.
+
+---
+
+## Tax Filing Deadline & ATL Status
+- **Standard Annual Deadline**: Typically **30th September** of each year (unless formally extended by FBR).
+- **Active Taxpayer List (ATL)**: ATL is updated automatically. Timely filers enter the ATL list immediately upon filing.
+- Disclaimer: Procedural instructions and tax provisions are illustrative for demo guidance. Consult a licensed tax practitioner or FBR (iris.fbr.gov.pk) for binding tax advice.

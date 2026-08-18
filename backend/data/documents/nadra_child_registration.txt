@@ -1,0 +1,67 @@
+# NADRA - Child Registration Certificate (CRC / B-Form) Issuance Guide
+
+## Overview
+The Child Registration Certificate (CRC), commonly called **B-Form** (Bay-Form), is the fundamental registration document issued by NADRA for Pakistani citizens below the age of 18 years. It acts as official government proof of child identity, lineage, date of birth, and parentage.
+
+The B-Form is strictly required for:
+- School and college admissions
+- Applying for a minor's passport
+- Medical visa and international travel
+- Opening minor bank accounts or child savings schemes
+- Transitioning to a CNIC upon reaching 18 years of age
+
+---
+
+## Eligibility Criteria
+- Child must be under 18 years of age.
+- Both parents (Father and Mother) must have valid Computerized National Identity Cards (CNIC/SNIC/NICOP) registered in NADRA's family database.
+- If one parent is deceased, their Death Certificate must be recorded in the NADRA database prior to application.
+- If parents are divorced, legal child custody documentation / court guardianship decree may be required.
+
+---
+
+## Required Documents
+1. **Union Council Birth Certificate**: Official computerized Birth Certificate issued by the relevant Union Council / Cantonment Board / Municipal Committee where the child was born.
+2. **Original CNICs of Parents**: Original CNIC of father and mother.
+3. **Presence**:
+   - For minors under 18: Physical presence of either father or mother is mandatory at the NADRA center for biometric authorization.
+   - For children aged 9 to 18: Child must accompany parent for digital photo and fingerprint scanning.
+   - For infants and children below 9: Only a live photograph is taken at the counter; fingerprinting is optional/not applicable.
+
+---
+
+## Application Procedure
+
+1. **Obtain Union Council Birth Certificate**:
+   - Within 60 days of childbirth, submit hospital birth slip (Form-A) to local Union Council to obtain the Computerized Birth Certificate.
+2. **Visit NADRA Registration Center (NRC)**:
+   - Parent visits NRC with the computerized birth certificate and original CNICs.
+   - Get a "Child Registration" token from the reception kiosk.
+3. **Data Entry & Photography**:
+   - The operator records child's full name, exact date of birth, place of birth, gender, and parents' details.
+   - Minor's photograph is captured on the spot against a plain background.
+4. **Biometric Verification**:
+   - Father or Mother places their thumbprint on the scanner to confirm parentage and give legal consent.
+5. **Print Form Verification**:
+   - Review the printed draft form. Verify English and Urdu spelling of the child's name thoroughly to prevent academic complications.
+6. **Fee Payment & Delivery**:
+   - Pay fee at counter. Standard paper B-Form or Chip-based Child Smart Card is processed and handed over or dispatched.
+
+---
+
+## Fee Schedule and Validity
+
+| Document Type | Normal Track | Urgent Track | Executive Track |
+|---|---|---|---|
+| Standard B-Form (Secure Paper Certificate) | Rs. 50 | Rs. 500 | Rs. 1,000 |
+| Smart Child Registration Card (Chip-based Card) | Rs. 750 | Rs. 1,500 | Rs. 2,500 |
+| Delivery / Processing Timeline | 3-5 Working Days | Same Day / 24 Hours | Instant (at Executive NRC) |
+
+*The B-Form remains valid until the individual reaches 18 years of age, upon which they must apply for an adult CNIC.*
+
+---
+
+## Important Tips
+- Ensure the spelling of the child's name in English and Urdu on the Union Council certificate matches what you want on the B-Form and future passport.
+- If multiple siblings are under 18, all children can be registered together under one family B-Form printout.
+- Disclaimer: Fee figures and procedural steps are illustrative for public reference. Confirm with NADRA Helpline (1777).

@@ -1,0 +1,66 @@
+# Directorate General of Immigration & Passports (DGIP) - Lost Passport Replacement Guide
+
+## Overview
+Losing a Pakistani Machine Readable Passport (MRP) or E-Passport requires immediate official reporting and a strict verification process before a replacement passport can be issued. The replacement process is designed to prevent identity theft, fraudulent travel document duplication, and misuse by unauthorized entities.
+
+Online renewal is **strictly disabled** for lost passports. The applicant must physically appear at the relevant Regional Passport Office (RPO) or Pakistani Embassy/Consulate abroad.
+
+---
+
+## Mandatory First Step: Police Report (Daily Diary / FIR)
+Immediately upon noticing the loss or theft of your passport:
+1. Visit the local Police Station in the jurisdiction where the passport was lost or misplaced.
+2. Lodge an official Police Report (Roznamcha / Daily Diary entry or First Information Report - FIR) describing the loss, mentioning the lost passport number, issuing office, and date of loss.
+3. Obtain a stamped, signed copy of the Police Report (Roznamcha Entry / Daily Diary Report) from the Station House Officer (SHO) or Moharrar.
+
+---
+
+## Required Documents Checklist for Lost Passport Replacement
+1. **Original Police Report (Roznamcha / FIR)**: Signed and stamped by the local Police Station.
+2. **Original CNIC / SNIC / NICOP**: Must be valid, along with 2 photocopies.
+3. **Photocopy of the Lost Passport**: If available (shows passport number, date of issue/expiry). If photocopy is unavailable, the lost passport number must be accurately mentioned in the application.
+4. **Paid Fee Challan (Lost Passport Rate)**: Paid via Passport Fee Asaan app/portal.
+5. **Affidavit on Stamp Paper**: A legal affidavit attested by an Oath Commissioner stating under oath the circumstances under which the passport was lost and confirming that it has not been pledged as surety or surrendered to any foreign authority.
+6. **B-Form and Parents' CNIC** (if the lost passport belonged to a minor).
+
+---
+
+## Multiple Loss Penalties & Fee Structure
+DGIP imposes escalated penalty fees for repeated passport losses:
+
+1. **First Time Loss (1st Loss)**:
+   - Penalty: Double the standard passport fee.
+   - Processing: Handled at standard RPO counter.
+2. **Second Time Loss (2nd Loss)**:
+   - Penalty: Quadruple (4 times) the standard passport fee.
+   - Processing: Requires special interview and formal clearance from the Assistant Director / Deputy Director.
+3. **Third Time Loss (3rd Loss)**:
+   - Penalty: Referred directly to the Directorate General of Immigration & Passports Headquarters in Islamabad.
+   - Requires formal security agency clearance and exhaustive investigative interview. An interim emergency travel certificate may be granted instead.
+
+### Fee Estimates for 1st Loss Replacement (36 Pages, 5 Years):
+- Normal Processing: Approx Rs. 9,000 (Double standard Rs. 4,500)
+- Urgent Processing: Approx Rs. 15,000 (Double standard Rs. 7,500)
+- Fast Track Processing: Approx Rs. 25,000
+
+---
+
+## In-Person Application Procedure
+
+1. **Fee Generation**: Generate PSID under "Lost Passport" category in the Passport Fee Asaan App and complete payment.
+2. **Visit RPO**: Visit Regional Passport Office with Police Report, Affidavit, and original CNIC.
+3. **Biometrics & Photos**: Digital photograph and fingerprints are captured.
+4. **Data Verification & Blacklist Check**: The system searches lost/stolen document databases (Interpol / DGIP central repository) to flag and permanently invalidate the lost passport number.
+5. **Interview with Assistant Director**: The Assistant Director conducts a mandatory interview to establish genuine loss before giving clearance.
+6. **Issuance & Collection**: Once cleared, tracking SMS is issued and the replacement passport is printed and delivered.
+
+---
+
+## What if the Lost Passport is Found Later?
+If a citizen recovers a previously reported lost passport:
+- It **cannot** be used for international travel under any circumstance.
+- The document has already been permanently cancelled in the central immigration database and border control systems (FIA Integrated Border Management System - IBMS).
+- Attempting to travel on a reported lost passport will lead to immediate offloading and detention at the airport.
+- Surrender the found document to the nearest Passport Office for destruction.
+
+*Disclaimer: Regulations and fees are illustrative for public guidance. Verify with DGIP at dgip.gov.pk.*
